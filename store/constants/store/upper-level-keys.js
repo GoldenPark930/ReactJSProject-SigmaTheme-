@@ -1,0 +1,14 @@
+export const NOTIFICATIONS = 'notifications';
+export const CURRENT_GROUP = 'currentGroup';
+export const CURRENT_USER = 'currentUser';
+export const CONTACTS_LIST = 'contactsList';
+export const PHONE_NUMBER = 'phoneNumber';
+export const USER = 'user';
+export const NAV_WORKAROUND = 'navWorkaround';
+export const PERMISSION = 'permission';
+export const MY_GROUPS = 'myGroups';
+export const AUTH = 'auth';
+export const LINKING = 'linking';
+export const INTERVAL = 'interval';
+export const GROUPS = 'groups';
+export const CHARGES = 'charges';
